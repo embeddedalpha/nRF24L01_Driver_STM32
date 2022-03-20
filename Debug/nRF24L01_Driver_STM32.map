@@ -95,8 +95,10 @@ __lock___env_recursive_mutex
                     0x1               d:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-lock.o)
 __lock___sinit_recursive_mutex
                     0x1               d:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-lock.o)
+nRF24L01            0x14              ./Inc/nRF24L01/nRF24L01.o
 __lock___malloc_recursive_mutex
                     0x1               d:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-lock.o)
+nRF24L01_Config     0x4c              ./Inc/nRF24L01/nRF24L01.o
 __lock___at_quick_exit_mutex
                     0x1               d:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-lock.o)
 APB1CLK_SPEED       0x4               ./Inc/Console/Console.o
@@ -529,6 +531,157 @@ Discarded input sections
  .debug_frame   0x0000000000000000      0x10c ./Inc/SPI/SPI.o
  .ARM.attributes
                 0x0000000000000000       0x34 ./Inc/SPI/SPI.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Inc/nRF24L01/nRF24L01.o
+ .text          0x0000000000000000        0x0 ./Inc/nRF24L01/nRF24L01.o
+ .data          0x0000000000000000        0x0 ./Inc/nRF24L01/nRF24L01.o
+ .bss           0x0000000000000000        0x0 ./Inc/nRF24L01/nRF24L01.o
+ .text.Delay_ms
+                0x0000000000000000       0x44 ./Inc/nRF24L01/nRF24L01.o
+ .text.nRF24L01_Flush_TX_FIFO
+                0x0000000000000000       0x44 ./Inc/nRF24L01/nRF24L01.o
+ .text.nRF24L01_Flush_RX_FIFO
+                0x0000000000000000       0x44 ./Inc/nRF24L01/nRF24L01.o
+ .text.nRF24L01_Init
+                0x0000000000000000       0x16 ./Inc/nRF24L01/nRF24L01.o
+ .text.nRF24L01_Power_Down_Mode
+                0x0000000000000000       0x7a ./Inc/nRF24L01/nRF24L01.o
+ .text.nRF24L01_Stanby_Mode
+                0x0000000000000000       0x22 ./Inc/nRF24L01/nRF24L01.o
+ .text.nRF24L01_RX_Mode
+                0x0000000000000000       0xb4 ./Inc/nRF24L01/nRF24L01.o
+ .text.nRF24L01_TX_Mode
+                0x0000000000000000       0x50 ./Inc/nRF24L01/nRF24L01.o
+ .text.nRF24L01_Transmit_Packet
+                0x0000000000000000       0x1c ./Inc/nRF24L01/nRF24L01.o
+ .debug_info    0x0000000000000000      0xfcd ./Inc/nRF24L01/nRF24L01.o
+ .debug_abbrev  0x0000000000000000      0x2e2 ./Inc/nRF24L01/nRF24L01.o
+ .debug_aranges
+                0x0000000000000000       0x60 ./Inc/nRF24L01/nRF24L01.o
+ .debug_ranges  0x0000000000000000       0x80 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0x316 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0xaae ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x2e ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x28 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x22 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x8e ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x51 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0x103 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x6a ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0x1df ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x1c ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x22 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0xdf ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000     0x102d ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0x11f ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000     0xb937 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x43 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x22 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x52 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x18 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x3c ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x34 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0x174 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x16 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x43 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x34 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x10 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x58 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x71 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x1c ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0x12a ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0x333 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x10 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x35 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x20 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x16 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x16 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x29 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x58 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x1c ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x10 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x1c ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x52 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x22 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x10 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x40 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0xd5 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x1c ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x3d ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x16 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0x145 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0x1a9 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x10 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0x460 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000      0x302 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x76 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x46 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0xe8 ./Inc/nRF24L01/nRF24L01.o
+ .debug_macro   0x0000000000000000       0x5e ./Inc/nRF24L01/nRF24L01.o
+ .debug_line    0x0000000000000000      0x84e ./Inc/nRF24L01/nRF24L01.o
+ .debug_str     0x0000000000000000    0x5668c ./Inc/nRF24L01/nRF24L01.o
+ .comment       0x0000000000000000       0x54 ./Inc/nRF24L01/nRF24L01.o
+ .debug_frame   0x0000000000000000      0x15c ./Inc/nRF24L01/nRF24L01.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Inc/nRF24L01/nRF24L01.o
+ COMMON         0x0000000000000000       0x60 ./Inc/nRF24L01/nRF24L01.o
+ .group         0x0000000000000000        0xc ./Src/main.o
  .group         0x0000000000000000        0xc ./Src/main.o
  .group         0x0000000000000000        0xc ./Src/main.o
  .group         0x0000000000000000        0xc ./Src/main.o
@@ -643,6 +796,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x460 ./Src/main.o
  .debug_macro   0x0000000000000000      0x302 ./Src/main.o
  .debug_macro   0x0000000000000000       0x76 ./Src/main.o
+ .debug_macro   0x0000000000000000       0x46 ./Src/main.o
+ .debug_macro   0x0000000000000000       0xe8 ./Src/main.o
  .group         0x0000000000000000        0xc ./Src/syscalls.o
  .group         0x0000000000000000        0xc ./Src/syscalls.o
  .group         0x0000000000000000        0xc ./Src/syscalls.o
@@ -1312,6 +1467,7 @@ LOAD d:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
 LOAD ./Inc/Console/Console.o
 LOAD ./Inc/GPIO/GPIO.o
 LOAD ./Inc/SPI/SPI.o
+LOAD ./Inc/nRF24L01/nRF24L01.o
 LOAD ./Src/main.o
 LOAD ./Src/syscalls.o
 LOAD ./Src/sysmem.o
@@ -1606,22 +1762,21 @@ LOAD d:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_ranges  0x0000000000000018       0x18 ./Src/system_stm32f4xx.o
  .debug_ranges  0x0000000000000030       0x20 ./Startup/startup_stm32f411ceux.o
 
-.debug_macro    0x0000000000000000      0x430
- .debug_macro   0x0000000000000000      0x2fe ./Src/main.o
- .debug_macro   0x00000000000002fe       0x46 ./Src/main.o
- .debug_macro   0x0000000000000344       0xec ./Src/system_stm32f4xx.o
+.debug_macro    0x0000000000000000      0x3f3
+ .debug_macro   0x0000000000000000      0x307 ./Src/main.o
+ .debug_macro   0x0000000000000307       0xec ./Src/system_stm32f4xx.o
 
-.debug_line     0x0000000000000000      0xcb2
- .debug_line    0x0000000000000000      0x774 ./Src/main.o
- .debug_line    0x0000000000000774      0x4ba ./Src/system_stm32f4xx.o
- .debug_line    0x0000000000000c2e       0x84 ./Startup/startup_stm32f411ceux.o
+.debug_line     0x0000000000000000      0xcd4
+ .debug_line    0x0000000000000000      0x796 ./Src/main.o
+ .debug_line    0x0000000000000796      0x4ba ./Src/system_stm32f4xx.o
+ .debug_line    0x0000000000000c50       0x84 ./Startup/startup_stm32f411ceux.o
 
-.debug_str      0x0000000000000000    0x55e5d
- .debug_str     0x0000000000000000    0x55d2a ./Src/main.o
-                                      0x5601c (size before relaxing)
- .debug_str     0x0000000000055d2a      0x102 ./Src/system_stm32f4xx.o
+.debug_str      0x0000000000000000    0x56213
+ .debug_str     0x0000000000000000    0x560e0 ./Src/main.o
+                                      0x563d2 (size before relaxing)
+ .debug_str     0x00000000000560e0      0x102 ./Src/system_stm32f4xx.o
                                       0x4f879 (size before relaxing)
- .debug_str     0x0000000000055e2c       0x31 ./Startup/startup_stm32f411ceux.o
+ .debug_str     0x00000000000561e2       0x31 ./Startup/startup_stm32f411ceux.o
                                          0x7f (size before relaxing)
 
 .comment        0x0000000000000000       0x53

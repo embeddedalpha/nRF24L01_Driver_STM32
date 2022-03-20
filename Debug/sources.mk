@@ -23,7 +23,7 @@ SUBDIRS := \
 Inc/Console \
 Inc/GPIO \
 Inc/SPI \
+Inc/nRF24L01 \
 Src \
 Startup \
-Inc/Independent_Watchdog \
 

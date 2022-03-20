@@ -11,8 +11,8 @@ RM := rm -rf
 -include sources.mk
 -include Startup/subdir.mk
 -include Src/subdir.mk
+-include Inc/nRF24L01/subdir.mk
 -include Inc/SPI/subdir.mk
--include Inc/Independent_Watchdog/subdir.mk
 -include Inc/GPIO/subdir.mk
 -include Inc/Console/subdir.mk
 -include objects.mk

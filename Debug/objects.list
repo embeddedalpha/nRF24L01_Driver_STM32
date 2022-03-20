@@ -1,6 +1,7 @@
 "./Inc/Console/Console.o"
 "./Inc/GPIO/GPIO.o"
 "./Inc/SPI/SPI.o"
+"./Inc/nRF24L01/nRF24L01.o"
 "./Src/main.o"
 "./Src/syscalls.o"
 "./Src/sysmem.o"

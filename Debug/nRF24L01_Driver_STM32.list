@@ -35,15 +35,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING, OCTETS
  15 .debug_ranges 00000050  00000000  00000000  000216e8  2**3
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 16 .debug_macro  00000430  00000000  00000000  00021738  2**0
+ 16 .debug_macro  000003f3  00000000  00000000  00021738  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 17 .debug_line   00000cb2  00000000  00000000  00021b68  2**0
+ 17 .debug_line   00000cd4  00000000  00000000  00021b2b  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 18 .debug_str    00055e5d  00000000  00000000  0002281a  2**0
+ 18 .debug_str    00056213  00000000  00000000  000227ff  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 19 .comment      00000053  00000000  00000000  00078677  2**0
+ 19 .comment      00000053  00000000  00000000  00078a12  2**0
                   CONTENTS, READONLY
- 20 .debug_frame  000000d4  00000000  00000000  000786cc  2**2
+ 20 .debug_frame  000000d4  00000000  00000000  00078a68  2**2
                   CONTENTS, READONLY, DEBUGGING, OCTETS
 
 Disassembly of section .text:
@@ -235,9 +235,9 @@ RCC -> APB2ENR |= RCC_APB2ENR_SYSCFGEN;
  80002d8:	40023c00 	.word	0x40023c00
 
 080002dc <main>:
-//#if !defined(__SOFT_FP__) && defined(__ARM_FP)
-//  #warning "FPU is not initialized, but the project is compiling for an FPU. Please initialize the FPU before use."
-//#endif
+#include "nRF24L01/nRF24L01_Reg.h"
+
+
 
 int main(void)
 {

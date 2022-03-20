@@ -1,0 +1,9 @@
+main.h:154:26:Delay_ms	24	static
+nRF24L01.c:44:13:nRF24L01_Flush_TX_FIFO	16	static
+nRF24L01.c:52:13:nRF24L01_Flush_RX_FIFO	16	static
+nRF24L01.c:60:6:nRF24L01_Init	16	static
+nRF24L01.c:68:5:nRF24L01_Power_Down_Mode	24	static
+nRF24L01.c:109:6:nRF24L01_Stanby_Mode	16	static
+nRF24L01.c:128:6:nRF24L01_RX_Mode	24	static
+nRF24L01.c:186:6:nRF24L01_TX_Mode	24	static
+nRF24L01.c:202:6:nRF24L01_Transmit_Packet	24	static
